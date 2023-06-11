@@ -18,10 +18,6 @@
   <li><span>https://okky.kr/articles/470566</span> - 각종 무료,유료 chart 솔루션 정리</li> 
 </ul>
 
-## SITE
-
-[github](https://gleensea.github.io/JAVA/)<br>
-
 # JAVA
 기존의 프로그램은 메인 사용자 구분없이 도서 추가, 전체조회, 검색 기능으로 구현되어 있었으며, 이를 수정하여 
 로그인 기능, 회원가입, 관리자 or 사용자 개별 텝으로 분리함
