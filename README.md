@@ -1,3 +1,27 @@
+## MAKER
+<ul>
+  <li>Name : Lee Young Tack</li>
+</ul>
+
+## SUPPORT PROGRAM
+<ul>
+  <li><span>EclipseIDE</span><br></li>
+  <li><span>Xampp - Apache, MySQL</span><br></li> 
+  <li><span>window capture tool</span><br><br></li>
+</ul>
+
+
+## SUPPORT SITE
+<ul>
+  <li><span>https://shacoding.com/2022/03/15/java-%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%95%B1/</span> - 도서관리 프로그램 원본 출처</li> 
+  <li><span>https://angelplayer.tistory.com/222</span> - github 설정</li>
+  <li><span>https://okky.kr/articles/470566</span> - 각종 무료,유료 chart 솔루션 정리</li> 
+</ul>
+
+## SITE
+
+[github](https://gleensea.github.io/JAVA/)<br>
+
 # JAVA
 기존의 프로그램은 메인 사용자 구분없이 도서 추가, 전체조회, 검색 기능으로 구현되어 있었으며, 이를 수정하여 
 로그인 기능, 회원가입, 관리자 or 사용자 개별 텝으로 분리함
